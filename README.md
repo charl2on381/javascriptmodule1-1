@@ -1,2 +1,2 @@
-# htmlcsstutorial
-html and css tutorials
+# Javascript Tuorial
+Java Script tutorials
